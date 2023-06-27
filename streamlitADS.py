@@ -3,7 +3,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 
-
 st.title("Automatic Data Analyser")
 
 upload_file = st.file_uploader("Upload Your CSV File For Data Analyse", type="csv")
